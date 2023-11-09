@@ -8,7 +8,7 @@ In our first recordings with the NP1_Apollo_Implant, we folded the probe flex un
   
 To prevent damage to the ZIF pads during recordings we designed this NP1_HeadstageHolder.  
 
-![image](https://github.com/NathanaelONeill/Apollo_Implant_Modifications/assets/94172541/aa189e55-18af-4ec1-8b7e-e2be5f00a9da)
+![Figure_github](https://github.com/NathanaelONeill/Apollo_Implant_Modifications/assets/94172541/5feb5479-5040-4a93-9992-617a45e0eeae)
 
 **Usage**
 
